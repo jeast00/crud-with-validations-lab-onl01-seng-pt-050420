@@ -2,3 +2,6 @@
 <% if @song.released? %>
   released in <%= @song.release_year %>
   <% end %>
+
+<h4>Genre:</h4>
+<%= @song.genre %>
