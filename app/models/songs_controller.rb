@@ -1,0 +1,2 @@
+class SongsController < ApplicationRecord
+end
