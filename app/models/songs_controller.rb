@@ -1,2 +1,0 @@
-class SongsController < ApplicationRecord
-end
